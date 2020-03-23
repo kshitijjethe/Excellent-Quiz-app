@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Which of the following is not a C++ Header file ?",
+        "2": "C++ does not supports the following",
+        "3": "Which operator is used to resolve the scope of the global variable?",
+        "4": "Following is the invalid inclusion of a file to the current program. Identify it",
+        "5": "Which of the following type of class allows only one object of it to be created?",
+        "6": "Which of the following is not a type of constructor?",
+        "7": "Which of the following is not the member of class?",
+        "8": "Which of the following concepts means determining at runtime what method to invoke?",
+        "9": "How many instances of an abstract class can be created?",
+        "10": "Which of the following cannot be friend?"
+    },
+    {
+        "1": {
+            "a": "conio.h",
+            "b": "cstdlib.h",
+            "c": "stdio.h",
+            "d": "math.h"
+        },
+        "2": {
+            "a": "Multilevel inheritance",
+            "b": "Hierarchical inheritance",
+            "c": "Hybrid inheritance",
+            "d": "None of the above"
+        },
+        "3": {
+            "a": "−>",
+            "b": ".",
+            "c": "*",
+            "d": "::"
+        },
+        "4": {
+            "a": "#include <file>",
+            "b": "Both",
+            "c": "#include < file",
+            "d": "All of the above are invalid"
+        },
+        "5": {
+            "a": "Virtual class",
+            "b": "Abstract class",
+            "c": "Singleton class",
+            "d": "Friend class"
+        },
+        "6": {
+            "a": "Copy constructor",
+            "b": "Friend constructor",
+            "c": "Default constructor",
+            "d": "Parameterized constructor"
+        },
+        "7": {
+            "a": "Static function",
+            "b": "Friend function",
+            "c": "Const function",
+            "d": "Virtual function"
+        },
+        "8": {
+            "a": "Data hiding",
+            "b": "Dynamic Typing",
+            "c": "Dynamic binding",
+            "d": "Dynamic loading"
+        },
+        "9": {
+            "a": "1",
+            "b": "5",
+            "c": "13",
+            "d": "0"
+        },
+        "10": {
+            "a": "Fnction",
+            "b": "Class",
+            "c": "Object",
+            "d": "Operation function"
+        }
+    },
+    {
+        "1": "stdio.h",
+        "2": "None of the above",
+        "3": "::",
+        "4": "#include < file",
+        "5": "Singleton class",
+        "6": "Friend constructor",
+        "7": "Friend function",
+        "8": "Dynamic binding",
+        "9": "0",
+        "10": "Object"
+    }
+]

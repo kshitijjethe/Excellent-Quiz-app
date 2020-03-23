@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Which of the following browser supports HTML5 in its latest version?",
+        "2": "Which of the following tag represents the header of a section in HTML5?",
+        "3": "Which of the following tag insists to have a value in an input control in HTML5?",
+        "4": "Which value of Socket.readyState atribute of WebSocket indicates that the connection is going through the closing handshake?",
+        "5": "Which of the following attribute triggers an abort event?",
+        "6": "Which of the following attribute triggers event after the document is printed?",
+        "7": "Which of the following attribute triggers event when an element leaves a valid drop target?",
+        "8": "What does HTML stand for?",
+        "9": "Choose the correct HTML element for the largest heading:",
+        "10": "What is the correct HTML element for inserting a line break?"
+    },
+    {
+        "1": {
+            "a": "Mozilla Firefox",
+            "b": "Opera",
+            "c": "Both of the above.",
+            "d": "None of the above."
+        },
+        "2": {
+            "a": "section",
+            "b": "article",
+            "c": "aside",
+            "d": "header"
+        },
+        "3": {
+            "a": "output",
+            "b": "autofocus",
+            "c": "autofocus",
+            "d": "required"
+        },
+        "4": {
+            "a": "0",
+            "b": "1",
+            "c": "2",
+            "d": "3"
+        },
+        "5": {
+            "a": "offline",
+            "b": "onabort",
+            "c": "abort",
+            "d": "onbeforeonload"
+        },
+        "6": {
+            "a": "offlineprint",
+            "b": "onprint",
+            "c": "onafterprint",
+            "d": "onbeforeprint"
+        },
+        "7": {
+            "a": "ondrag",
+            "b": "ondragleave",
+            "c": "ondragover",
+            "d": "ondragstart"
+        },
+        "8": {
+            "a": "Hyperlinks and Text Markup Language",
+            "b": "Home tool Markup Language",
+            "c": "Hyper Tool Markup Language",
+            "d": "Hypertext Markup Language"
+        },
+        "9": {
+            "a": "<h1>",
+            "b": "<h6>",
+            "c": "<head>",
+            "d": "<heading>"
+        },
+        "10": {
+            "a": "<break>",
+            "b": "<br>",
+            "c": "<lb>",
+            "d": "<hr>"
+        }
+    },
+    {
+        "1": "Both of the above.",
+        "2": "header",
+        "3": "required",
+        "4": "2",
+        "5": "onabort",
+        "6": "onafterprint",
+        "7": "ondragleave",
+        "8": "Hypertext Markup Language",
+        "9": "<h1>",
+        "10": "<br>"
+    }
+]
